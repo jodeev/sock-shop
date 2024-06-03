@@ -1,6 +1,6 @@
 # Contributing to Sock-shop
 
-Firstly, thank you for considering contributing to sock-shop! 🎉 It's people like you that make the open-source community such a fantastic place to learn, inspire, and create. All contributions are welcome, including new features, bug fixes, documentation improvements, and more.
+Firstly, thank you for considering contributing to the sock-shop! 🎉 It's people like you that make the open-source community such a fantastic place to learn, inspire, and create. All contributions are welcome, including new features, bug fixes, documentation improvements, and more.
 
 ## Code of Conduct
 
