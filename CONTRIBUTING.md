@@ -44,7 +44,7 @@ Great! Here's how to submit a pull request:
 2. If you've added code, write necessary tests and ensure the test suite passes.
 3. If you've changed APIs, update the documentation.
 4. Ensure your code follows the existing style of the project to maintain consistency.
-5. Write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should have detailed messages.
+5. Write a clear log message for your commits. One-line messages are fine for small changes, but substantial changes should have detailed messages.
 6. Describe the changes you made in the pull request description, and refer to any related issues or pull requests.
 7. Submit your pull request!
 
