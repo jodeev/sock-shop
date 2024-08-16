@@ -38,7 +38,7 @@ Provide the following details:
 
 ### Pull Requests
 
-If there's an issue in our backlog that you want to work on, that is great! 
+If there's an issue in our backlog that interests you, that is great! 
 
 We definitely review pull requests that address open issues that we have accepted to our backlog. If there is not an existing issue for something you want to work on, please submit one, and we will review it and let you know if it is something we would consider. For existing open issues, here's how to submit a pull request:
 
