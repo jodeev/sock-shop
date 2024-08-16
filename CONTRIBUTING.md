@@ -38,7 +38,9 @@ Provide the following details:
 
 ### Pull Requests
 
-Great! Here's how to submit a pull request:
+If there's an issue in our backlog that you want to work on, that is great! 
+
+We definitely review and pull requests that address any open issues. Here's how to submit a pull request:
 
 1. Fork the repository and create your branch from `main`.
 2. If you've added code, write necessary tests and ensure the test suite passes.
