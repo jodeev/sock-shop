@@ -38,7 +38,9 @@ Provide the following details:
 
 ### Pull Requests
 
-Great! Here's how to submit a pull request:
+If there's an issue in our backlog that interests you, that is great! 
+
+We definitely review pull requests that address open issues that we have accepted to our backlog. If there is not an existing issue for something you want to work on, please submit one, and we will review it and let you know if it is something we would consider. For existing open issues, here's how to submit a pull request:
 
 1. Fork the repository and create your branch from `main`.
 2. If you've added code, write necessary tests and ensure the test suite passes.
